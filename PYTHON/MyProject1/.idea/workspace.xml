@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ba2c0d2-43d6-4072-bbdf-322c86d4a674" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="XkEFKCiKwast4MvueJxmjkegyAz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tec\Desktop\manishapython\MyProject1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tec\Desktop\manishapython\MyProject1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Basic 1">
+    <configuration name="Basic 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abstraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="duck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/duck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="methord Overidding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/methord Overidding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poloymorphimsm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poloymorphimsm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Basic 1" />
+        <item itemvalue="Python.abstraction" />
+        <item itemvalue="Python.duck" />
+        <item itemvalue="Python.methord Overidding" />
+        <item itemvalue="Python.poloymorphimsm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ba2c0d2-43d6-4072-bbdf-322c86d4a674" name="Default Changelist" comment="" />
+      <created>1072946008913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1072946008913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1072953126648">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="445" y="58" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1072953126648" />
+    <state x="366" y="0" key="#p1" timestamp="1072948265477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="366" y="0" key="#p1/0.0.1280.680@0.0.1280.680" timestamp="1072948265477" />
+    <state x="420" y="97" key="FileChooserDialogImpl" timestamp="1072946175532">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1072946175532" />
+    <state width="1258" height="154" key="GridCell.Tab.0.bottom" timestamp="1072947084918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="154" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1072947084918" />
+    <state width="1258" height="154" key="GridCell.Tab.0.center" timestamp="1072947084918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="154" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1072947084918" />
+    <state width="1258" height="154" key="GridCell.Tab.0.left" timestamp="1072947084918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="154" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1072947084918" />
+    <state width="1258" height="154" key="GridCell.Tab.0.right" timestamp="1072947084918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="154" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1072947084918" />
+    <state width="1258" height="198" key="GridCell.Tab.1.bottom" timestamp="1072948370793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="198" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1072948370793" />
+    <state width="1258" height="198" key="GridCell.Tab.1.center" timestamp="1072948370793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="198" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1072948370793" />
+    <state width="1258" height="198" key="GridCell.Tab.1.left" timestamp="1072948370793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="198" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1072948370793" />
+    <state width="1258" height="198" key="GridCell.Tab.1.right" timestamp="1072948370793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="198" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1072948370793" />
+    <state x="347" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1072944325506">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="347" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1072944325506" />
+    <state x="381" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1072952614952">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="381" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1072952614952" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1072948860398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1072948860398" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
